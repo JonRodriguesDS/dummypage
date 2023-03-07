@@ -1,0 +1,21 @@
+
+h1 { 
+    color:red;
+    font-size: 100px;
+
+}
+
+
+.time {
+     position: relative;
+    max-width: 600px;
+    width: 550px;
+    
+}
+
+.combo {
+    position: relative;
+    max-width: 300px;
+    width: 50%;
+
+}
